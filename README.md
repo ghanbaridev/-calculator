@@ -1,2 +1,2 @@
-# -calculator
+# calculator
 a simple ccounter
